@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jagii-23&theme=algolia&rank=-C&title=MultiLanguage,Commits,Repositories,Experience" alt="Jagii-23" /></a> </p>
 
 - 🌱 I’m currently learning **Django, React and Node**
-- 📫 How to reach me **ganeshrajan2.00@gmail.com**
+- 📫 How to reach me **jesh23004@gmail.com**
 - ⚡ Fun fact **I think I am a Good Coder**
 
 <h3 align="left">Connect with me:</h3>
