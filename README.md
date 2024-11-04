@@ -27,23 +27,23 @@
 
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gk9516&layout=compact&theme=" alt=gk9516 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagii-23&layout=compact&theme=" alt=Jagii-23 />
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gk9516&theme=" alt="gk9516" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jagii-23&theme=" alt="Jagii-23" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/gk9516">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gk9516&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gk9516&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gk9516&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gk9516&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gk9516&theme=2077" height="180em" />
+<a href="https://github.com/Jagii-23">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jagii-23&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jagii-23&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jagii-23&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jagii-23&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jagii-23&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gk9516&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Jagii-23&theme=default"/>
   
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gk9516/gk9516/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jagii-23/jagii-23/output/snake.svg" alt="Snake animation" />
 
