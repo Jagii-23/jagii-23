@@ -45,5 +45,5 @@
   
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Jagii-23/jagii-23/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Jagii-23/Jagii-23/output/snake.svg" alt="Snake animation" />
 
