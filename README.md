@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Ganesh </h1>
+<h1 align="center">Hi 👋, I'm Jagadeesh </h1>
 <h3 align="center">As a Final-year student at SRMIST with a strong proficiency in coding, specialized training in machine learning algorithms, and a demonstrated ability to take on leadership responsibilities, I am committed to furthering my knowledge, honing my skills, and leveraging my leadership abilities to contribute effectively in the field of technology.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gk9516&label=Profile%20views&color=0e75b6&style=flat" alt="gk9516" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jagii-23&label=Profile%20views&color=0e75b6&style=flat" alt="Jagii-23" /> </p>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gk9516&theme=algolia&rank=-C&title=MultiLanguage,Commits,Repositories,Experience" alt="gk9516" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jagii-23&theme=algolia&rank=-C&title=MultiLanguage,Commits,Repositories,Experience" alt="Jagii-23" /></a> </p>
 
 - 🌱 I’m currently learning **Django, React and Node**
 - 📫 How to reach me **ganeshrajan2.00@gmail.com**
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ganeshrajan2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="ganeshrajan2004" height="80" width="100" /></a><a href="https://linkedin.com/in/ganesh-k-910573233" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="ganesh-k-910573233" height="80" width="100" /></a><a href="https://fb.com/ganesh.rajan.2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="ganesh.rajan.2004" height="80" width="100" /></a></p>
+<a href="https://www.linkedin.com/in/jagadeesh-gopalakrishnan-367a47253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="jagadeesh-gopalakrishnan-367a47253" height="80" width="100" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
